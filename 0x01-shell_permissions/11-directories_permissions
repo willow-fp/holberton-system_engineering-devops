@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x .
+find /raizdelsitio -type d -exec chmod 111 {} \+
