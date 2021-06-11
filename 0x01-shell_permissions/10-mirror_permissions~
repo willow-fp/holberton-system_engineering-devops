@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -r 664 /holberton-system_engineering-devops/0x01-shell_permissions/0x01-shell_permissions
